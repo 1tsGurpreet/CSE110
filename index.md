@@ -25,9 +25,9 @@ Reasons to hire me
 - I am good at listening
 
 My worst qualities
-1) I like things perfect
-2) I drink allot of water
-3) I use the restroom often
+1. I like things perfect
+2. I drink allot of water
+3. I use the restroom often
 
 ### TO-DO LIST
 - [ ] Leetcode
